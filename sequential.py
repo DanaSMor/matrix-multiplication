@@ -9,11 +9,12 @@ def makeMultiplication():
       for k in range(len(matrix_b)):
         result[i][j] += matrix_a[i][k] * matrix_b[k][j]
 
-default_size = int(sys.argv[1])
+default_size = 2
+size = int(sys.argv[1]) if len(sys.argv) > 1 else default_size
 matrix_a = []
 matrix_b = []
 result = []
 
-utils.makeMatrices(matrix_a, matrix_b, result, default_size)
+utils.makeMatrices(matrix_a, matrix_b, result, size)
 makeMultiplication()
 utils.printMatrices(matrix_a, matrix_b, result)
