@@ -19,7 +19,7 @@ def makeMultiplication():
     worker = Calculator(i)
     worker.start()
 
-default_size = 2
+default_size = 4
 size = int(sys.argv[1]) if len(sys.argv) > 1 else default_size
 matrix_a = []
 matrix_b = []
@@ -27,4 +27,4 @@ result = []
 
 utils.makeMatrices(matrix_a, matrix_b, result, size)
 makeMultiplication()
-utils.printMatrices(matrix_a, matrix_b, result)
+utils.printResult(result, size)

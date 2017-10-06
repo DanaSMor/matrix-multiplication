@@ -17,4 +17,4 @@ result = []
 
 utils.makeMatrices(matrix_a, matrix_b, result, size)
 makeMultiplication()
-utils.printMatrices(matrix_a, matrix_b, result)
+utils.printResult(result, size)

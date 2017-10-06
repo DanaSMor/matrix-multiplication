@@ -11,8 +11,8 @@ def makeMatricesRandom(matrix_a, matrix_b, result, size):
     result.append([0] * size)
 
 def makeMatrices(matrix_a, matrix_b, result, size):
-  data_a = open("input/A%sx%s.txt" % (size, size), 'r')
-  data_b = open("input/B%sx%s.txt" % (size, size), 'r')
+  data_a = open("matrices/A%sx%s.txt" % (size, size), 'r')
+  data_b = open("matrices/B%sx%s.txt" % (size, size), 'r')
 
   for x in range(0,size):
     if x == 0:
@@ -26,12 +26,11 @@ def makeMatrices(matrix_a, matrix_b, result, size):
     matrix_b.append(line_b)
     result.append([0] * size)
 
-def printMatrices(matrix_a, matrix_b, result):
-  print('Matrix A')
-  print(matrix_a)
-  print('\n')
-  print('Matrix B')
-  print(matrix_b)
-  print('\n')
-  print('Resultado')
-  print(result)
+def printResult(result, size):
+  result_file = open("matrices/C%sx%s.txt" % (size, size), 'w')
+
+  for x in range(0, len(result)):
+    line = ' '.join(list(map(str, result[x])))
+    result_file.write(line)
+    result_file.write("\n")
+
