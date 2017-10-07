@@ -1,0 +1,50 @@
+Matrix 64x64
+
+Sequential Way
+
+Matrix multiplication to 64x64 size was finished in 0.12761497497558594
+Matrix multiplication to 64x64 size was finished in 0.12610411643981934
+Matrix multiplication to 64x64 size was finished in 0.12699222564697266
+Matrix multiplication to 64x64 size was finished in 0.1323871612548828
+Matrix multiplication to 64x64 size was finished in 0.13452816009521484
+Matrix multiplication to 64x64 size was finished in 0.12975788116455078
+Matrix multiplication to 64x64 size was finished in 0.12925982475280762
+Matrix multiplication to 64x64 size was finished in 0.12334799766540527
+Matrix multiplication to 64x64 size was finished in 0.12763118743896484
+Matrix multiplication to 64x64 size was finished in 0.12361621856689453
+Matrix multiplication to 64x64 size was finished in 0.12788176536560059
+Matrix multiplication to 64x64 size was finished in 0.13322210311889648
+Matrix multiplication to 64x64 size was finished in 0.12391805648803711
+Matrix multiplication to 64x64 size was finished in 0.12845206260681152
+Matrix multiplication to 64x64 size was finished in 0.1265568733215332
+Matrix multiplication to 64x64 size was finished in 0.13463187217712402
+Matrix multiplication to 64x64 size was finished in 0.1271381378173828
+Matrix multiplication to 64x64 size was finished in 0.12648892402648926
+Matrix multiplication to 64x64 size was finished in 0.13135790824890137
+Matrix multiplication to 64x64 size was finished in 0.1312263011932373
+Total time to 20 execution was 2.5721137523651123. Average time was 0.1286056876182556
+
+
+Multithreading Way
+
+Matrix multiplication to 64x64 size was finished in 0.15581989288330078
+Matrix multiplication to 64x64 size was finished in 0.15846514701843262
+Matrix multiplication to 64x64 size was finished in 0.1599130630493164
+Matrix multiplication to 64x64 size was finished in 0.15677213668823242
+Matrix multiplication to 64x64 size was finished in 0.1579582691192627
+Matrix multiplication to 64x64 size was finished in 0.16154789924621582
+Matrix multiplication to 64x64 size was finished in 0.15960335731506348
+Matrix multiplication to 64x64 size was finished in 0.1562669277191162
+Matrix multiplication to 64x64 size was finished in 0.15465903282165527
+Matrix multiplication to 64x64 size was finished in 0.15967392921447754
+Matrix multiplication to 64x64 size was finished in 0.16127705574035645
+Matrix multiplication to 64x64 size was finished in 0.15520906448364258
+Matrix multiplication to 64x64 size was finished in 0.1586918830871582
+Matrix multiplication to 64x64 size was finished in 0.15473103523254395
+Matrix multiplication to 64x64 size was finished in 0.15427494049072266
+Matrix multiplication to 64x64 size was finished in 0.15822577476501465
+Matrix multiplication to 64x64 size was finished in 0.15336894989013672
+Matrix multiplication to 64x64 size was finished in 0.15625786781311035
+Matrix multiplication to 64x64 size was finished in 0.161085844039917
+Matrix multiplication to 64x64 size was finished in 0.15323281288146973
+Total time to 20 execution was 3.1470348834991455. Average time was 0.1573517441749573

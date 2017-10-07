@@ -1,0 +1,50 @@
+Matrix 128x128
+
+Sequential Way
+
+Matrix multiplication to 128x128 size was finished in 0.967756986618042
+Matrix multiplication to 128x128 size was finished in 0.9794862270355225
+Matrix multiplication to 128x128 size was finished in 0.9700398445129395
+Matrix multiplication to 128x128 size was finished in 0.9683229923248291
+Matrix multiplication to 128x128 size was finished in 0.9556760787963867
+Matrix multiplication to 128x128 size was finished in 0.9669561386108398
+Matrix multiplication to 128x128 size was finished in 0.9852399826049805
+Matrix multiplication to 128x128 size was finished in 0.9592602252960205
+Matrix multiplication to 128x128 size was finished in 0.9656400680541992
+Matrix multiplication to 128x128 size was finished in 0.9656970500946045
+Matrix multiplication to 128x128 size was finished in 0.9642250537872314
+Matrix multiplication to 128x128 size was finished in 0.9553279876708984
+Matrix multiplication to 128x128 size was finished in 0.9541809558868408
+Matrix multiplication to 128x128 size was finished in 0.974682092666626
+Matrix multiplication to 128x128 size was finished in 0.9726700782775879
+Matrix multiplication to 128x128 size was finished in 0.9896800518035889
+Matrix multiplication to 128x128 size was finished in 0.9622080326080322
+Matrix multiplication to 128x128 size was finished in 0.973956823348999
+Matrix multiplication to 128x128 size was finished in 0.9745080471038818
+Matrix multiplication to 128x128 size was finished in 0.9707729816436768
+Total time to 20 execution was 19.376287698745728. Average time was 0.9688143849372863
+
+
+Multithreading Way
+
+Matrix multiplication to 128x128 size was finished in 1.201719045639038
+Matrix multiplication to 128x128 size was finished in 1.210533857345581
+Matrix multiplication to 128x128 size was finished in 1.199233055114746
+Matrix multiplication to 128x128 size was finished in 1.2254812717437744
+Matrix multiplication to 128x128 size was finished in 1.2295629978179932
+Matrix multiplication to 128x128 size was finished in 1.211242914199829
+Matrix multiplication to 128x128 size was finished in 1.2118847370147705
+Matrix multiplication to 128x128 size was finished in 1.2126379013061523
+Matrix multiplication to 128x128 size was finished in 1.2209739685058594
+Matrix multiplication to 128x128 size was finished in 1.2268240451812744
+Matrix multiplication to 128x128 size was finished in 1.2230219841003418
+Matrix multiplication to 128x128 size was finished in 1.2123780250549316
+Matrix multiplication to 128x128 size was finished in 1.2079360485076904
+Matrix multiplication to 128x128 size was finished in 1.2168760299682617
+Matrix multiplication to 128x128 size was finished in 1.2148547172546387
+Matrix multiplication to 128x128 size was finished in 1.2337327003479004
+Matrix multiplication to 128x128 size was finished in 1.2157742977142334
+Matrix multiplication to 128x128 size was finished in 1.2254579067230225
+Matrix multiplication to 128x128 size was finished in 1.225931167602539
+Matrix multiplication to 128x128 size was finished in 1.2270481586456299
+Total time to 20 execution was 24.353104829788208. Average time was 1.2176552414894104

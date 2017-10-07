@@ -1,0 +1,50 @@
+Matrix 32x32
+
+Sequential Way
+
+Matrix multiplication to 32x32 size was finished in 0.015999794006347656
+Matrix multiplication to 32x32 size was finished in 0.017756938934326172
+Matrix multiplication to 32x32 size was finished in 0.018638134002685547
+Matrix multiplication to 32x32 size was finished in 0.017739057540893555
+Matrix multiplication to 32x32 size was finished in 0.020647764205932617
+Matrix multiplication to 32x32 size was finished in 0.0173642635345459
+Matrix multiplication to 32x32 size was finished in 0.018067121505737305
+Matrix multiplication to 32x32 size was finished in 0.017783164978027344
+Matrix multiplication to 32x32 size was finished in 0.017323017120361328
+Matrix multiplication to 32x32 size was finished in 0.019784927368164062
+Matrix multiplication to 32x32 size was finished in 0.0199429988861084
+Matrix multiplication to 32x32 size was finished in 0.02101612091064453
+Matrix multiplication to 32x32 size was finished in 0.019040584564208984
+Matrix multiplication to 32x32 size was finished in 0.018925905227661133
+Matrix multiplication to 32x32 size was finished in 0.017313003540039062
+Matrix multiplication to 32x32 size was finished in 0.01880788803100586
+Matrix multiplication to 32x32 size was finished in 0.016640186309814453
+Matrix multiplication to 32x32 size was finished in 0.020314931869506836
+Matrix multiplication to 32x32 size was finished in 0.018522262573242188
+Matrix multiplication to 32x32 size was finished in 0.017944812774658203
+Total time to 20 execution was 0.36957287788391113. Average time was 0.018478643894195557
+
+
+Multithreading Way
+
+Matrix multiplication to 32x32 size was finished in 0.025438785552978516
+Matrix multiplication to 32x32 size was finished in 0.027704238891601562
+Matrix multiplication to 32x32 size was finished in 0.027569055557250977
+Matrix multiplication to 32x32 size was finished in 0.02641606330871582
+Matrix multiplication to 32x32 size was finished in 0.026567935943603516
+Matrix multiplication to 32x32 size was finished in 0.025478124618530273
+Matrix multiplication to 32x32 size was finished in 0.028360843658447266
+Matrix multiplication to 32x32 size was finished in 0.026414155960083008
+Matrix multiplication to 32x32 size was finished in 0.025077104568481445
+Matrix multiplication to 32x32 size was finished in 0.026978015899658203
+Matrix multiplication to 32x32 size was finished in 0.025274276733398438
+Matrix multiplication to 32x32 size was finished in 0.027823925018310547
+Matrix multiplication to 32x32 size was finished in 0.026246070861816406
+Matrix multiplication to 32x32 size was finished in 0.03281211853027344
+Matrix multiplication to 32x32 size was finished in 0.025670766830444336
+Matrix multiplication to 32x32 size was finished in 0.027595996856689453
+Matrix multiplication to 32x32 size was finished in 0.030999183654785156
+Matrix multiplication to 32x32 size was finished in 0.027498960494995117
+Matrix multiplication to 32x32 size was finished in 0.02923893928527832
+Matrix multiplication to 32x32 size was finished in 0.02780008316040039
+Total time to 20 execution was 0.5469646453857422. Average time was 0.02734823226928711

@@ -1,0 +1,50 @@
+Matrix 16x16
+
+Sequential Way
+
+Matrix multiplication to 16x16 size was finished in 0.003493785858154297
+Matrix multiplication to 16x16 size was finished in 0.00302886962890625
+Matrix multiplication to 16x16 size was finished in 0.0025250911712646484
+Matrix multiplication to 16x16 size was finished in 0.002618074417114258
+Matrix multiplication to 16x16 size was finished in 0.0025620460510253906
+Matrix multiplication to 16x16 size was finished in 0.002389192581176758
+Matrix multiplication to 16x16 size was finished in 0.0025599002838134766
+Matrix multiplication to 16x16 size was finished in 0.002404928207397461
+Matrix multiplication to 16x16 size was finished in 0.0025718212127685547
+Matrix multiplication to 16x16 size was finished in 0.0033299922943115234
+Matrix multiplication to 16x16 size was finished in 0.003052949905395508
+Matrix multiplication to 16x16 size was finished in 0.0037658214569091797
+Matrix multiplication to 16x16 size was finished in 0.002774953842163086
+Matrix multiplication to 16x16 size was finished in 0.0024869441986083984
+Matrix multiplication to 16x16 size was finished in 0.002637147903442383
+Matrix multiplication to 16x16 size was finished in 0.0027549266815185547
+Matrix multiplication to 16x16 size was finished in 0.003606081008911133
+Matrix multiplication to 16x16 size was finished in 0.0032057762145996094
+Matrix multiplication to 16x16 size was finished in 0.0024471282958984375
+Matrix multiplication to 16x16 size was finished in 0.0023796558380126953
+Total time to 20 execution was 0.0565950870513916. Average time was 0.00282975435256958
+
+
+Multithreading Way
+
+Matrix multiplication to 16x16 size was finished in 0.00592803955078125
+Matrix multiplication to 16x16 size was finished in 0.0053288936614990234
+Matrix multiplication to 16x16 size was finished in 0.005137920379638672
+Matrix multiplication to 16x16 size was finished in 0.005803108215332031
+Matrix multiplication to 16x16 size was finished in 0.0046291351318359375
+Matrix multiplication to 16x16 size was finished in 0.006440162658691406
+Matrix multiplication to 16x16 size was finished in 0.004845857620239258
+Matrix multiplication to 16x16 size was finished in 0.007110118865966797
+Matrix multiplication to 16x16 size was finished in 0.005832195281982422
+Matrix multiplication to 16x16 size was finished in 0.0043849945068359375
+Matrix multiplication to 16x16 size was finished in 0.005288124084472656
+Matrix multiplication to 16x16 size was finished in 0.006882905960083008
+Matrix multiplication to 16x16 size was finished in 0.004539966583251953
+Matrix multiplication to 16x16 size was finished in 0.0044400691986083984
+Matrix multiplication to 16x16 size was finished in 0.005690813064575195
+Matrix multiplication to 16x16 size was finished in 0.004400014877319336
+Matrix multiplication to 16x16 size was finished in 0.004371166229248047
+Matrix multiplication to 16x16 size was finished in 0.004827022552490234
+Matrix multiplication to 16x16 size was finished in 0.00475001335144043
+Matrix multiplication to 16x16 size was finished in 0.004383087158203125
+Total time to 20 execution was 0.10501360893249512. Average time was 0.005250680446624756

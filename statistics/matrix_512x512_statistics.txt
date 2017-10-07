@@ -1,0 +1,50 @@
+Matrix 512x512
+
+Sequential Way
+
+Matrix multiplication to 512x512 size was finished in 65.26258873939514
+Matrix multiplication to 512x512 size was finished in 65.55458402633667
+Matrix multiplication to 512x512 size was finished in 61.47278094291687
+Matrix multiplication to 512x512 size was finished in 61.515586137771606
+Matrix multiplication to 512x512 size was finished in 62.65314507484436
+Matrix multiplication to 512x512 size was finished in 80.97785210609436
+Matrix multiplication to 512x512 size was finished in 65.57586193084717
+Matrix multiplication to 512x512 size was finished in 68.92504811286926
+Matrix multiplication to 512x512 size was finished in 64.92469596862793
+Matrix multiplication to 512x512 size was finished in 63.71880793571472
+Matrix multiplication to 512x512 size was finished in 69.84096312522888
+Matrix multiplication to 512x512 size was finished in 66.76271176338196
+Matrix multiplication to 512x512 size was finished in 66.86913323402405
+Matrix multiplication to 512x512 size was finished in 66.09044313430786
+Matrix multiplication to 512x512 size was finished in 66.612478017807
+Matrix multiplication to 512x512 size was finished in 66.23059320449829
+Matrix multiplication to 512x512 size was finished in 64.73387789726257
+Matrix multiplication to 512x512 size was finished in 67.23639798164368
+Matrix multiplication to 512x512 size was finished in 66.49931383132935
+Matrix multiplication to 512x512 size was finished in 66.64033317565918
+Total time to 20 execution was 1328.097196340561. Average time was 66.40485981702804
+
+
+Multithreading Way
+
+Matrix multiplication to 512x512 size was finished in 82.14458107948303
+Matrix multiplication to 512x512 size was finished in 81.22292923927307
+Matrix multiplication to 512x512 size was finished in 81.90031099319458
+Matrix multiplication to 512x512 size was finished in 80.64763808250427
+Matrix multiplication to 512x512 size was finished in 80.40876388549805
+Matrix multiplication to 512x512 size was finished in 82.030446767807
+Matrix multiplication to 512x512 size was finished in 82.14810276031494
+Matrix multiplication to 512x512 size was finished in 80.4701497554779
+Matrix multiplication to 512x512 size was finished in 81.09390115737915
+Matrix multiplication to 512x512 size was finished in 82.07433199882507
+Matrix multiplication to 512x512 size was finished in 83.3584508895874
+Matrix multiplication to 512x512 size was finished in 80.13157296180725
+Matrix multiplication to 512x512 size was finished in 82.16136622428894
+Matrix multiplication to 512x512 size was finished in 84.01764392852783
+Matrix multiplication to 512x512 size was finished in 86.74305009841919
+Matrix multiplication to 512x512 size was finished in 85.90456986427307
+Matrix multiplication to 512x512 size was finished in 81.13687229156494
+Matrix multiplication to 512x512 size was finished in 82.47857785224915
+Matrix multiplication to 512x512 size was finished in 80.40406823158264
+Matrix multiplication to 512x512 size was finished in 80.71888899803162
+Total time to 20 execution was 1641.196217060089. Average time was 82.05981085300445

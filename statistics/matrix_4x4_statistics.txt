@@ -1,0 +1,50 @@
+Matrix 4x4
+
+Sequential Way
+
+Matrix multiplication to 4x4 size was finished in 0.0013382434844970703
+Matrix multiplication to 4x4 size was finished in 0.0004990100860595703
+Matrix multiplication to 4x4 size was finished in 0.00043582916259765625
+Matrix multiplication to 4x4 size was finished in 0.0004990100860595703
+Matrix multiplication to 4x4 size was finished in 0.0003859996795654297
+Matrix multiplication to 4x4 size was finished in 0.0004649162292480469
+Matrix multiplication to 4x4 size was finished in 0.0003731250762939453
+Matrix multiplication to 4x4 size was finished in 0.00038695335388183594
+Matrix multiplication to 4x4 size was finished in 0.0005118846893310547
+Matrix multiplication to 4x4 size was finished in 0.00041794776916503906
+Matrix multiplication to 4x4 size was finished in 0.000431060791015625
+Matrix multiplication to 4x4 size was finished in 0.0003979206085205078
+Matrix multiplication to 4x4 size was finished in 0.00040411949157714844
+Matrix multiplication to 4x4 size was finished in 0.0004570484161376953
+Matrix multiplication to 4x4 size was finished in 0.0003981590270996094
+Matrix multiplication to 4x4 size was finished in 0.00039505958557128906
+Matrix multiplication to 4x4 size was finished in 0.0005567073822021484
+Matrix multiplication to 4x4 size was finished in 0.0005598068237304688
+Matrix multiplication to 4x4 size was finished in 0.0004642009735107422
+Matrix multiplication to 4x4 size was finished in 0.00033783912658691406
+Total time to 20 execution was 0.009714841842651367. Average time was 0.00048574209213256834
+
+
+Multithreading Way
+
+Matrix multiplication to 4x4 size was finished in 0.003373861312866211
+Matrix multiplication to 4x4 size was finished in 0.0011789798736572266
+Matrix multiplication to 4x4 size was finished in 0.0009610652923583984
+Matrix multiplication to 4x4 size was finished in 0.0008440017700195312
+Matrix multiplication to 4x4 size was finished in 0.0007731914520263672
+Matrix multiplication to 4x4 size was finished in 0.0009558200836181641
+Matrix multiplication to 4x4 size was finished in 0.0007669925689697266
+Matrix multiplication to 4x4 size was finished in 0.0008051395416259766
+Matrix multiplication to 4x4 size was finished in 0.0008897781372070312
+Matrix multiplication to 4x4 size was finished in 0.0009200572967529297
+Matrix multiplication to 4x4 size was finished in 0.000804901123046875
+Matrix multiplication to 4x4 size was finished in 0.0008199214935302734
+Matrix multiplication to 4x4 size was finished in 0.001203775405883789
+Matrix multiplication to 4x4 size was finished in 0.0012822151184082031
+Matrix multiplication to 4x4 size was finished in 0.001107931137084961
+Matrix multiplication to 4x4 size was finished in 0.0010900497436523438
+Matrix multiplication to 4x4 size was finished in 0.001522064208984375
+Matrix multiplication to 4x4 size was finished in 0.0010390281677246094
+Matrix multiplication to 4x4 size was finished in 0.0010218620300292969
+Matrix multiplication to 4x4 size was finished in 0.0008978843688964844
+Total time to 20 execution was 0.022258520126342773. Average time was 0.0011129260063171386

@@ -1,0 +1,50 @@
+Matrix 256x256
+
+Sequential Way
+
+Matrix multiplication to 256x256 size was finished in 7.596611738204956
+Matrix multiplication to 256x256 size was finished in 7.938645839691162
+Matrix multiplication to 256x256 size was finished in 7.885020017623901
+Matrix multiplication to 256x256 size was finished in 7.943989992141724
+Matrix multiplication to 256x256 size was finished in 7.930495023727417
+Matrix multiplication to 256x256 size was finished in 7.9160850048065186
+Matrix multiplication to 256x256 size was finished in 7.885426998138428
+Matrix multiplication to 256x256 size was finished in 8.027427673339844
+Matrix multiplication to 256x256 size was finished in 7.844017267227173
+Matrix multiplication to 256x256 size was finished in 7.895169019699097
+Matrix multiplication to 256x256 size was finished in 7.882311820983887
+Matrix multiplication to 256x256 size was finished in 7.96775221824646
+Matrix multiplication to 256x256 size was finished in 7.911056756973267
+Matrix multiplication to 256x256 size was finished in 7.899518966674805
+Matrix multiplication to 256x256 size was finished in 8.146076917648315
+Matrix multiplication to 256x256 size was finished in 8.234909057617188
+Matrix multiplication to 256x256 size was finished in 8.28490424156189
+Matrix multiplication to 256x256 size was finished in 7.892945289611816
+Matrix multiplication to 256x256 size was finished in 7.933120012283325
+Matrix multiplication to 256x256 size was finished in 8.072302103042603
+Total time to 20 execution was 159.08778595924377. Average time was 7.954389297962189
+
+
+Multithreading Way
+
+Matrix multiplication to 256x256 size was finished in 9.194359064102173
+Matrix multiplication to 256x256 size was finished in 9.243829011917114
+Matrix multiplication to 256x256 size was finished in 9.422086238861084
+Matrix multiplication to 256x256 size was finished in 9.833906888961792
+Matrix multiplication to 256x256 size was finished in 9.143693208694458
+Matrix multiplication to 256x256 size was finished in 9.214491844177246
+Matrix multiplication to 256x256 size was finished in 9.236974000930786
+Matrix multiplication to 256x256 size was finished in 9.417253017425537
+Matrix multiplication to 256x256 size was finished in 9.302258014678955
+Matrix multiplication to 256x256 size was finished in 8.433686017990112
+Matrix multiplication to 256x256 size was finished in 9.231937885284424
+Matrix multiplication to 256x256 size was finished in 9.170205116271973
+Matrix multiplication to 256x256 size was finished in 9.222436904907227
+Matrix multiplication to 256x256 size was finished in 9.1771559715271
+Matrix multiplication to 256x256 size was finished in 9.162584066390991
+Matrix multiplication to 256x256 size was finished in 9.26448917388916
+Matrix multiplication to 256x256 size was finished in 9.232343196868896
+Matrix multiplication to 256x256 size was finished in 9.203500986099243
+Matrix multiplication to 256x256 size was finished in 9.228662729263306
+Matrix multiplication to 256x256 size was finished in 9.222710132598877
+Total time to 20 execution was 184.55856347084045. Average time was 9.227928173542022

@@ -1,0 +1,50 @@
+Matrix 8x8
+
+Sequential Way
+
+Matrix multiplication to 8x8 size was finished in 0.0008571147918701172
+Matrix multiplication to 8x8 size was finished in 0.0007369518280029297
+Matrix multiplication to 8x8 size was finished in 0.0006551742553710938
+Matrix multiplication to 8x8 size was finished in 0.0006561279296875
+Matrix multiplication to 8x8 size was finished in 0.0007050037384033203
+Matrix multiplication to 8x8 size was finished in 0.0006742477416992188
+Matrix multiplication to 8x8 size was finished in 0.0007109642028808594
+Matrix multiplication to 8x8 size was finished in 0.0006699562072753906
+Matrix multiplication to 8x8 size was finished in 0.0008440017700195312
+Matrix multiplication to 8x8 size was finished in 0.0006761550903320312
+Matrix multiplication to 8x8 size was finished in 0.0006427764892578125
+Matrix multiplication to 8x8 size was finished in 0.0006587505340576172
+Matrix multiplication to 8x8 size was finished in 0.0006940364837646484
+Matrix multiplication to 8x8 size was finished in 0.0006611347198486328
+Matrix multiplication to 8x8 size was finished in 0.0006561279296875
+Matrix multiplication to 8x8 size was finished in 0.0007770061492919922
+Matrix multiplication to 8x8 size was finished in 0.0006711483001708984
+Matrix multiplication to 8x8 size was finished in 0.0006678104400634766
+Matrix multiplication to 8x8 size was finished in 0.0007069110870361328
+Matrix multiplication to 8x8 size was finished in 0.0007228851318359375
+Total time to 20 execution was 0.01404428482055664. Average time was 0.0007022142410278321
+
+
+Multithreading Way
+
+Matrix multiplication to 8x8 size was finished in 0.002337932586669922
+Matrix multiplication to 8x8 size was finished in 0.0019829273223876953
+Matrix multiplication to 8x8 size was finished in 0.0017910003662109375
+Matrix multiplication to 8x8 size was finished in 0.0017240047454833984
+Matrix multiplication to 8x8 size was finished in 0.0020771026611328125
+Matrix multiplication to 8x8 size was finished in 0.0021469593048095703
+Matrix multiplication to 8x8 size was finished in 0.0016293525695800781
+Matrix multiplication to 8x8 size was finished in 0.0014681816101074219
+Matrix multiplication to 8x8 size was finished in 0.00150299072265625
+Matrix multiplication to 8x8 size was finished in 0.0015108585357666016
+Matrix multiplication to 8x8 size was finished in 0.0015401840209960938
+Matrix multiplication to 8x8 size was finished in 0.0015621185302734375
+Matrix multiplication to 8x8 size was finished in 0.0022771358489990234
+Matrix multiplication to 8x8 size was finished in 0.0029151439666748047
+Matrix multiplication to 8x8 size was finished in 0.0016620159149169922
+Matrix multiplication to 8x8 size was finished in 0.0015459060668945312
+Matrix multiplication to 8x8 size was finished in 0.0014579296112060547
+Matrix multiplication to 8x8 size was finished in 0.0015149116516113281
+Matrix multiplication to 8x8 size was finished in 0.0015909671783447266
+Matrix multiplication to 8x8 size was finished in 0.0014929771423339844
+Total time to 20 execution was 0.035730600357055664. Average time was 0.0017865300178527832
